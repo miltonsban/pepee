@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>
+hoja de vida
+</title>
+</head>
+<body>
+<br><br>
+<div align="center">
+<img src="imágenes/saban.jpg" alt="ese soy yo"" height="20" width="20">
+</div>
+<hr size="25" nocshade><br>
+<i>HOJA DE VIDA<br>
+
+<b>Nombre<br>
+<u>MILTON SABAN</u> 
+</i> </b><br>
+<hr size ="25" noshade><br>
+<b>   
+<b>
+informacion personal
+</b>
+<br>
+<b>
+soy estudiante de 6to administracion el cual terminara sus estudios de diversificado en este año 2025 <br>El siguiente año comenzare la universidad  para tener mas conocimientos sobre los temas que mas me interesen.
+<hr size ="25" noshade><br>
+</b>
+<u>estudios</u>
+</b>
+<br>
+<b>
+
+Primaria:          Escuela Oficial Rural Mixta marianita</b><br>
+<b>
+Basicos:           Instituto INEB JM</b>
+<b><br>
+Diversificado:     Instituto profecional de computacion IPC     
+</b><br>
+<hr size ="25" noshade><br>
+
+</body>
+
+</html>
