@@ -100,7 +100,7 @@ REFERENCIAS PERSONALES
 <tr>
             <td>Carmen bac</td>
             <td>+502 3673 9533</td>
-            <td><img src="imagenes\carmen.jpg" alt="la carmen" heigth=100 width="100"></td>
+            <td><img src="imagenes\car.jpg" alt="la carmen" heigth=100 width="100"></td>
         </tr>
 
        
