@@ -61,7 +61,7 @@ IDIOMAS:         </b><br>
 <b><u> </u><br>
 <b>Español         </b><br>
 <b><u> </u><br>
-<b>INGLES (c1)        </b><br>
+<b>INGLES (b1)        </b><br>
 
 
 <hr size ="25" noshade><br>
