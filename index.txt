@@ -10,7 +10,7 @@ hoja de vida
 <div align="center">
 <h1 >Milton Saban</h1>
 <br>
-<img src="imágenes/milton.jpg" alt="ese soy yo"" height="20" width="20">
+<img src="imagenes/milton.jpg" alt="ese soy yo"" height="20" width="20">
 </div>
 <hr size="25" nocshade><br>
 <div>
@@ -79,32 +79,29 @@ REFERENCIAS PERSONALES
         <tr>
             <td>Edgar arana</td>
             <td>+502 3836 7483</td>
-            <td><img src="imagenes\edgar.jpg" alt="el fachas" heigth=100 width="100"></td>
+            <td><img src="imagenes\edgar.jpg" alt="el fachas" heigth="100" width="100"></td>
         </tr>
         <tr>
             <td>Jared Guerra</td>
             <td>+502 3689 8658</td>
-            <td><img src="imagenes\jared.jpg" alt="el diablo" heigth=100 width="100"></td>
+            <td><img src="imagenes\jared.jpg" alt="el diablo" heigth="100" width="100"></td>
         </tr>
         <tr>
             <td>Cristofer solares</td>
             <td>+502 3673 9533</td>
-            <td><img src="imagenes\cris.jpg" alt="el esque" heigth=100 width="100"></td>
+            <td><img src="imagenes\cris.jpg" alt="el esque" heigth="100" width="100"></td>
         </tr>
 <tr>
             <td>Alyson cordova</td>
             <td>+502 3673 9533</td>
-            <td><img src="imagenes\suas.jpg" alt="la suas" heigth=100 width="100"></td>
+            <td><img src="imagenes\suas.jpg" alt="lasuas" heigth="100" width="100"></td>
         </tr>
 
 <tr>
             <td>Carmen bac</td>
             <td>+502 3673 9533</td>
-            <td><img src="imagenes\car.jpg" alt="la carmen" heigth=100 width="100"></td>
+            <td><img src="imagenes\car.jpg" alt="lacarmen" heigth="100" width="100"></td>
         </tr>
-
-       
-
 <hr size ="25" noshade><br>
 
 
