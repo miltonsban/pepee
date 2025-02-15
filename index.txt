@@ -5,38 +5,96 @@ hoja de vida
 </title>
 </head>
 <body>
+
 <br><br>
 <div align="center">
-<img src="imágenes/saban.jpg" alt="ese soy yo"" height="20" width="20">
+<h1 >Milton Saban</h1>
+<br>
+<img src="imágenes/milton.jpg" alt="ese soy yo"" height="20" width="20">
 </div>
 <hr size="25" nocshade><br>
-<i>HOJA DE VIDA<br>
+<div>
+<h1>INFORMACION PERSONAL</h1></div>
 
-<b>Nombre<br>
-<u>MILTON SABAN</u> 
+<b>NOMBRE<br>
+<u>Milton Alexander Saban Marroquin</u> 
+</i> </b><br>
+<b>FECHA DE NACIMIENTO:<br>
+<u>02/08/2006</u> 
+</i> </b><br>
+<b>NACIONALIDAD:<br>
+<u>Guatemalteca</u> 
+</i> </b><br>
+<b>NUMERO TELEFONICO:<br>
+<u>41585992</u> 
+</i> </b><br>
+<b>CORREO ELCTRONICO:<br>
+<u>sabanmilton512@gamil.com</u> 
+</i> </b><br>
+<b>DPI:<br>
+<u>3859 22027 2115</u> 
+</i> </b><br>
+<b>ESTADO CIVIL:<br>
+<u>Soltero</u> 
 </i> </b><br>
 <hr size ="25" noshade><br>
-<b>   
-<b>
-informacion personal
-</b>
+ 
+<h1>
+INFORAMCION ACADEMICA
+</h1>
 <br>
 <b>
-soy estudiante de 6to administracion el cual terminara sus estudios de diversificado en este año 2025 <br>El siguiente año comenzare la universidad  para tener mas conocimientos sobre los temas que mas me interesen.
+Primaria:         </b><br>
+<b><u> Escuela Oficial Rural Mixta marianita</u><br>
+<b>Basicos:          </b><br>
+<b> <u>Instituto INEB JM</u><br>
+<b>Diversificado:         
+</b><br><u>Instituto profecional de computacion IPC</u><br> 
 <hr size ="25" noshade><br>
-</b>
-<u>estudios</u>
-</b>
-<br>
-<b>
 
-Primaria:          Escuela Oficial Rural Mixta marianita</b><br>
+<h1>
+OTROS:
+</h1>
+<br>
 <b>
-Basicos:           Instituto INEB JM</b>
-<b><br>
-Diversificado:     Instituto profecional de computacion IPC     
-</b><br>
+IDIOMAS:         </b><br>
+<b><u> </u><br>
+<b>Español         </b><br>
+<b><u> </u><br>
+<b>INGLES (c1)        </b><br>
+
+
 <hr size ="25" noshade><br>
+ 
+<h1>
+REFERENCIAS PERSONALES
+</h1>
+ <table border="2">
+        <tr>
+            <th>Nombre</th>
+            <th>NO. Telefonico</th>
+            <th>Foto</th>
+            
+        </tr>
+        <tr>
+            <td>Edgar arana</td>
+            <td>+502 3836 7483</td>
+            <td><img src="imagenes\edgar.jpg" alt="el fachas" heigth=100 width="100"></td>
+        </tr>
+        <tr>
+            <td>Jared Guerra</td>
+            <td>+502 3689 8658</td>
+            <td><img src="imagenes\jared.jpg" alt="el diablo" heigth=100 width="100"></td>
+        </tr>
+        <tr>
+            <td>Cristofer solares</td>
+            <td>+502 3673 9533</td>
+            <td><img src="imagenes\cris.jpg" alt="el esque" heigth=100 width="100"></td>
+        </tr>
+       
+
+<hr size ="25" noshade><br>
+
 
 </body>
 
